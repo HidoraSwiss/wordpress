@@ -12,7 +12,7 @@ oRespTurnOn = triger.addTrigger({
         "period": 1,
         "condition": {
             "type": "GREATER",
-            "value": 70,
+            "value": 60,
             "resourceType": "CPU",
             "valueType": "PERCENTAGES"
         },
